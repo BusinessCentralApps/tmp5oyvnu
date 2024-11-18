@@ -4,5 +4,6 @@
   "shell": "pwsh",
   "runs-on": "ubuntu-latest",
   "useProjectDependencies": true,
-  "templateUrl": "https://github.com/businesscentralapps/tmpZlNw3p-PTE@main"
+  "templateUrl": "https://github.com/businesscentralapps/tmpZlNw3p-PTE@main",
+  "templateSha": "f8bd7544f112df8dd8e6e2a3fbbecb6402607954"
 }
